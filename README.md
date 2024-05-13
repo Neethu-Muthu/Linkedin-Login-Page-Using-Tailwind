@@ -22,7 +22,7 @@ To set up the project locally, follow these steps:
 
 - Clone the repository to your local machine:
 git clone <repository_url>
-- Open the index.html file in your web browser to view the LinkedIn login page.
+- Open the linkedin.html file in your web browser to view the LinkedIn login page.
 ## Usage
 Once the project is set up, you can interact with the LinkedIn login page to sign in using your email and password. If you're new to LinkedIn, you can also click on the "Join Now" link to create a new account.
 
